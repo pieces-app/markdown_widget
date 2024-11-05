@@ -30,6 +30,7 @@ dependencies:
   runtime_client:
     git:
       url: git@github.com:open-runtime/runtime_client.git
+      ref: 95318e19244c56cb83d7de2de5ba50b5013dac50
   runtime_flutter_code_highlighter:
     git:
       url: git@github.com:open-runtime/code_highlighter.git
